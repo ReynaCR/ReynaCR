@@ -4,8 +4,11 @@ Ingeniera en Tecnologías Computacionales | Desarrolladora Junior
 Soy una ingeniera apasionada por el desarrollo de software y la resolucion de problemas logicos. Actualmente, me encuentro enfocada en fortalecer mis habilidades y en contribuir a proyectos de TI que desafíen mis habilidades analíticas y me permitan seguir creciendo profesionalmente.
 
 Lenguajes: Python, JavaScript, Java y C++.
+
 Web: HTML5, CSS3.
+
 Bases de Datos: SQL (MySQL, SQL Server).
+
 Git, GitHub, Mapeo de procesos y Documentación técnica.
 
 📫 Contacto:
