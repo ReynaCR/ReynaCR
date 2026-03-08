@@ -1,5 +1,6 @@
 ¡Hola, soy Reyna Carranza! 👋
-Ingeniera en Tecnologías Computacionales | Desarrolladora Junior, automatización
+
+Ingeniera en Tecnologías Computacionales | Desarrolladora Junior, resolución de problemas mediante la automatización.
 
 Soy una ingeniera recien egresada, me encuentro enfocada en fortalecer mis habilidades y en contribuir a proyectos de TI que desafíen mis habilidades analíticas y me permitan seguir creciendo profesionalmente.
 
